@@ -12,7 +12,7 @@ Findings
 <url> https://github.com/aswinitiral/Health_Data_Analysis/blob/tss/pcr_test_analysis.ipynb
 
 ### Report/Output:
-<url>
+<url> https://github.com/aswinitiral/Health_Data_Analysis/blob/tss/pcr_test_result.ipynb
 
 
 ### Description:
@@ -27,7 +27,7 @@ Findings
 <url> https://github.com/aswinitiral/Health_Data_Analysis/blob/tss/pcr_test_analysis.ipynb
 
 ### Report/Output:
-<url>
+<url> https://github.com/aswinitiral/Health_Data_Analysis/blob/tss/pcr_test_result.ipynb
 
 ### Description:
 
@@ -43,7 +43,7 @@ Findings
 <url> https://github.com/aswinitiral/Health_Data_Analysis/blob/tss/pcr_test_analysis.ipynb
 
 ### Report/Output:
-<url>
+<url> https://github.com/aswinitiral/Health_Data_Analysis/blob/tss/pcr_test_result.ipynb
 
 ### Description:
 

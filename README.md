@@ -9,7 +9,7 @@ Findings
 ------------------------
 
 ### Code:
-<url>
+<url> https://github.com/aswinitiral/Health_Data_Analysis/blob/tss/pcr_test_analysis.ipynb
 
 ### Report/Output:
 <url>
@@ -24,7 +24,7 @@ Findings
 ## Rolling Average for 7 Days for the past 30 days.
 -------------------------------------------------
 ### Code:
-<url>
+<url> https://github.com/aswinitiral/Health_Data_Analysis/blob/tss/pcr_test_analysis.ipynb
 
 ### Report/Output:
 <url>
@@ -40,7 +40,7 @@ Findings
 ## Top 10 States with the highest positive rate
 --------------------------------------------
 ### Code:
-<url>
+<url> https://github.com/aswinitiral/Health_Data_Analysis/blob/tss/pcr_test_analysis.ipynb
 
 ### Report/Output:
 <url>
